@@ -1,4 +1,4 @@
-
+# all the imports
 import sqlite3
 import config
 
